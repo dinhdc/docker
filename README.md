@@ -1,6 +1,7 @@
-## LEARN DOCKER
+# LEARN DOCKER
 
-# Some of the many cool things you'll do in this course:
+## Some of the many cool things you'll do in this course
+
 - Edit web code on your machine while it's served up in a container
 - Lock down your apps in private networks that only expose necessary ports
 - Create a 3-node Swarm cluster in the cloud
@@ -14,7 +15,8 @@
 - Deploy container updates in a rolling always-up design
 - Create the config utopia of a single set of YAML files for local dev, CI testing, and prod cluster deploys
 
-# After taking this course, you'll be able to:
+## After taking this course, you'll be able to
+
 - Use Docker in your daily developer and/or sysadmin roles
 - Deploy apps to Kubernetes
 - Make Dockerfiles and Compose files
@@ -28,7 +30,8 @@
 - Protect important persistent data in volumes and bind mounts
 - Lead your team into the future with the latest Docker container skills!
 
-# What we will learn?
+## What we will learn?
+
 - How to use Docker, Compose and Kubernetes on your machine for better software building and testing.
 - Learn Docker and Kubernetes official tools from an award-winning Docker Captain!
 - Gain the skills to build development environments with your code running in containers.
