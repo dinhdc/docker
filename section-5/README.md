@@ -48,10 +48,10 @@
   2. environments variable: ```ENV NGINX_VERSION 1.25.0~jessie```
 - Sample:
   - Sample 1: custom nginx
-    - cd to *dockerfile-sample-1*: ```cd /section-5/sample/dockerfile-sample-1```
+    - cd to *dockerfile-sample-1*: ```cd /sample/dockerfile-sample-1```
     - run build image with docker file: ```docker build -t customnginx .```
   - Sample 2: extending Offical Images
-    - cd to *dockerfile-sample-2*: ```cd /section-5/sample/dockerfile-sample-2```
+    - cd to *dockerfile-sample-2*: ```cd /sample/dockerfile-sample-2```
     - run build image with docker file: ```docker build -t nginx-with-html .```
     - run image with command: ```docker container run -p 80:80 --rm nginx-with-html```
     - open your browser and enter ```localhost```
