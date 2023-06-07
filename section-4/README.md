@@ -75,4 +75,3 @@
    - See how it works by default with custom networks
    - Learn how to use ```--link``` to enable DNS on default bridge network
      - ```docker container run -d --name my_new_nginx --network my_app_network nginx```
-
